@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c18fff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c18fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcela;I'm+18+years+old;I'm+from+Brazil;I'm+a+student+of+Programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c18fff&size=35&center=true&vCenter=true&width=1000&lines=HI!+My+name+is+Marcela;And+i'm+18+years+old;I'm+Brazilian;And+now+i'm+studying+I.T.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marci-Hime&show_icons=true&count_private=true&hide_border=true&title_color=c18fff&icon_color=94afff&text_color=c9d1d9&bg_color=0d1117" alt="Marcela github stats" /> 
