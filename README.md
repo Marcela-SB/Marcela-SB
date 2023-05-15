@@ -3,16 +3,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c18fff&size=35&center=true&vCenter=true&width=1000&lines=HI!+My+name+is+Marcela;And+i'm+18+years+old;I'm+Brazilian;And+now+i'm+studying+I.T.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marci-Hime&show_icons=true&count_private=true&hide_border=true&title_color=c18fff&icon_color=94afff&text_color=c9d1d9&bg_color=0d1117" alt="Marcela github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marci-Hime&layout=compact&hide_border=true&title_color=c18fff&text_color=94afff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcela-SB&show_icons=true&count_private=true&hide_border=true&title_color=c18fff&icon_color=94afff&text_color=c9d1d9&bg_color=0d1117" alt="Marcela github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcela-SB&layout=compact&hide_border=true&title_color=c18fff&text_color=94afff&bg_color=0d1117" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marci-Hime&bg_color=0d1117&color=c18fff&line=714c9e&point=94afff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marcela-SB&bg_color=0d1117&color=c18fff&line=714c9e&point=94afff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marci-Hime&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Marcela-SB&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center"> 
